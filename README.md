@@ -7,19 +7,6 @@
 
 This dashboard helps to conduct a comphensive analysis of Blinkit's sales performance, customer satisfaction, and inventory distribution to identify key insights and oppurtunities using various KPI's and visuliztion in Power BI.
 
-### Steps followed 
-
-- Step 1 : Load data into Power BI Desktop, dataset is a csv file.
-- Step 2 : Open power query editor and performed renaming of columns and also renamed some category in some columns.
-- Step 3 : Created various measures by Total Sales, Average Sales, Average Rating , Number of Items and used a card chart to show these.
-- Step 4 : Using Modeling created New Parameter of fields of the above measures.
-- Step 5 : Created a Donut chart , Clusterd bar chart, Stacked bar chart and displayed fat content vs above measures, fat content by outlet and different measures vs item type.
-- Step 8 : Created a line chart vs outlet establisment year and displayed sales in different outlets.
-- Step 9 : Created a donut chart to show sales in different outlet size.
-- Step 10 : Created a funnel chart to show sum of sales vs Outlet location type. 
-- Step 11 : Finally created a table to show different measure and outlet type.
-
-
 ## Chart's Requirements:
 
 1. Total Sales by Fat Content:
@@ -69,6 +56,18 @@ Chart Type: Donut / Pie Chart.
  Objective: Provide a comprehensive view of all key metrics (Total Sales, Average Sales, Number of Items, Average Rating) broken down by different outlet types.
 
  Chart Type: Matrix Card.
+
+### Steps followed 
+
+- Step 1 : Load data into Power BI Desktop, dataset is a csv file.
+- Step 2 : Open power query editor and performed renaming of columns and also renamed some category in some columns.
+- Step 3 : Created various measures by Total Sales, Average Sales, Average Rating , Number of Items and used a card chart to show these.
+- Step 4 : Using Modeling created New Parameter of fields of the above measures.
+- Step 5 : Created a Donut chart , Clusterd bar chart, Stacked bar chart and displayed fat content vs above measures, fat content by outlet and different measures vs item type.
+- Step 8 : Created a line chart vs outlet establisment year and displayed sales in different outlets.
+- Step 9 : Created a donut chart to show sales in different outlet size.
+- Step 10 : Created a funnel chart to show sum of sales vs Outlet location type. 
+- Step 11 : Finally created a table to show different measure and outlet type.
 
 
  ## Report Snapshot (Power BI DESKTOP)
